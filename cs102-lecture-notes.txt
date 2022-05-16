@@ -3,3 +3,9 @@ git clone - it work to make copy into local machine
 git commit
 git branch
 git reset
+ lecture 14 : we study about markdown  and its introduction
+              how to made section and sub section using markdown
+              for example:
+                          # title
+                          ## subtitle
+                             define something about it  
