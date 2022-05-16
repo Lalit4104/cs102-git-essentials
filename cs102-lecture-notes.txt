@@ -1,0 +1,5 @@
+git add . - to add a file into a repository
+git clone - it work to make copy into local machine
+git commit
+git branch
+git reset
